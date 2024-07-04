@@ -1,3 +1,5 @@
+git add .
+
 git commit -m "COMMENT"
 
 git push -u origin master
